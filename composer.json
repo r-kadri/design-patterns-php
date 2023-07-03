@@ -1,0 +1,15 @@
+{
+    "name": "ryan/design-patterns-php",
+    "autoload": {
+        "psr-4": {
+            "Ryan\\DesignPatternsPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Kadri",
+            "email": "ryankadri.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
